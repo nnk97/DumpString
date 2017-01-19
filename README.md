@@ -1,4 +1,4 @@
-# DumpStrings
+﻿# DumpStrings
 Simple program which is dumping all strings referenced in methods from .NET file using dnlib
 
 ## Usage
